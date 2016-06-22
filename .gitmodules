@@ -1,0 +1,3 @@
+[submodule "HomeWork1"]
+	path = HomeWork1
+	url = git@github.com:intrueder/CitizenRegistry.git
